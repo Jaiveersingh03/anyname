@@ -1,1 +1,1 @@
-# anyname
+# Analyizing zepto inventory using sql
